@@ -1,4 +1,5 @@
-# Perplexity Authority Mapping Dataset
+# Perplexity Domain Authority Mapping 
+## For Fun and Profit
 
 ![Status](https://img.shields.io/badge/Research-August%202025-blue)
 ![Citations](https://img.shields.io/badge/Citations%20Analyzed-23%2C936-green)
