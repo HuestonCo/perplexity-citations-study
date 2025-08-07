@@ -123,7 +123,7 @@ Why? Because YouTube has become humanity's default repository for "how to do any
 
 ## The Cross-Vertical Revolution Nobody Saw Coming
 ![Perplexxity Cruss Vertical Citations](https://hueston.co/remote/04_cross_vertical_heatmap.png)
-
+![Perplexxity Cruss Vertical Citations](https://hueston.co/remote/11_vertical_overlap_network.png)
 
 Here's where our jaws hit the floor. We discovered 25 domains that appear in every single vertical we studied. These aren't just popular sites—they're what we call "Universal Authorities."
 
