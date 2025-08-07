@@ -122,6 +122,8 @@ Why? Because YouTube has become humanity's default repository for "how to do any
 ---
 
 ## The Cross-Vertical Revolution Nobody Saw Coming
+![Perplexxity Cruss Vertical Citations](https://hueston.co/remote/04_cross_vertical_heatmap.png)
+
 
 Here's where our jaws hit the floor. We discovered 25 domains that appear in every single vertical we studied. These aren't just popular sites—they're what we call "Universal Authorities."
 
@@ -326,11 +328,7 @@ Now you know. The question is: What are you going to do about it?
 - ✅ Query performance metrics
 - ✅ Cost efficiency analysis
 
-### Want the Full Dataset?
 
-We're making our complete findings available to the research community. 
-
-📊 **[Download the complete dataset and methodology](https://github.com/yourusername/perplexity-authority-mapping)**
 
 ---
 
