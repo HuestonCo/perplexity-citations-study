@@ -32,7 +32,7 @@ This repository contains the complete dataset and analysis from our comprehensiv
 
 ### Access the Data
 
-1. **Download the complete dataset**: [data/processed/](data/processed/)
+1. **Download the complete dataset**: [data/processed/](data/)
 2. **Read the full analysis**: [authority-mapping.md)
 
 ### Key Datasets
