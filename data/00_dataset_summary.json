@@ -1,0 +1,175 @@
+{
+  "Dataset Overview": {
+    "Total Domains": 6606,
+    "Total Queries": 4835,
+    "Total Citations": 23936,
+    "Total Verticals": 23,
+    "Domains with Authority Scores": "6606",
+    "Average Authority Score": 14.67290068049212,
+    "Max Authority Score": 66.94145609206905,
+    "Min Authority Score": 8.627633768804865,
+    "Total Cost": 26.092584000000002,
+    "Average Cost per Query": 0.0054066688769167015
+  },
+  "Query Statistics": {
+    "Completed Queries": 4826,
+    "Average Tokens per Query": 406.6688769167012,
+    "Query Types": {
+      "how_to": 994,
+      "best": 993,
+      "comparison": 966,
+      "guide": 961,
+      "review": 921
+    },
+    "Queries per Vertical": {
+      "cloud": 225,
+      "startups": 225,
+      "mobile_apps": 225,
+      "ai_ml": 225,
+      "nutrition": 220,
+      "mental_health": 220,
+      "marketing": 215,
+      "medical": 215,
+      "fitness": 215,
+      "fintech": 210,
+      "travel": 210,
+      "ecommerce": 210,
+      "saas": 210,
+      "cybersecurity": 210,
+      "banking": 200,
+      "trading": 200,
+      "insurance": 200,
+      "investing": 200,
+      "product_reviews": 200,
+      "booking": 200,
+      "food": 200,
+      "fashion": 200,
+      "home_improvement": 200
+    }
+  },
+  "Citation Statistics": {
+    "Average Citations per Query": 4.950568769389865,
+    "Average Citations per Domain": 3.6233726914925826,
+    "Position Distribution": {
+      "1": 4823,
+      "2": 4823,
+      "3": 4821,
+      "4": 4807,
+      "5": 4662
+    },
+    "Direct Quotes": "2466",
+    "Content Types": {
+      "blog": 9227,
+      "article": 8164,
+      "review": 2544,
+      "guide": 2278,
+      "commercial": 1262,
+      "news": 337,
+      "research": 124
+    }
+  },
+  "Top 10 Domains by Authority": [
+    {
+      "domain": "youtube.com",
+      "authority_score": 66.94145609206905,
+      "total_citations": 1142
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "authority_score": 52.109705543046175,
+      "total_citations": 144
+    },
+    {
+      "domain": "docs.saleshunterthemes.com",
+      "authority_score": 50.12197372667182,
+      "total_citations": 60
+    },
+    {
+      "domain": "uxcam.com",
+      "authority_score": 47.65071303477608,
+      "total_citations": 125
+    },
+    {
+      "domain": "socialpilot.co",
+      "authority_score": 47.516387290467854,
+      "total_citations": 128
+    },
+    {
+      "domain": "duocircle.com",
+      "authority_score": 46.55005306775113,
+      "total_citations": 49
+    },
+    {
+      "domain": "shopify.com",
+      "authority_score": 46.41271714655557,
+      "total_citations": 161
+    },
+    {
+      "domain": "launchnotes.com",
+      "authority_score": 46.17952058934712,
+      "total_citations": 137
+    },
+    {
+      "domain": "prodpad.com",
+      "authority_score": 46.05342757067801,
+      "total_citations": 100
+    },
+    {
+      "domain": "ftc.gov",
+      "authority_score": 44.311325743215704,
+      "total_citations": 229
+    }
+  ],
+  "Top 10 Most Cited Domains": [
+    {
+      "domain": "youtube.com",
+      "total_citations": 1142,
+      "authority_score": 66.94145609206905
+    },
+    {
+      "domain": "nerdwallet.com",
+      "total_citations": 350,
+      "authority_score": 39.66820767749726
+    },
+    {
+      "domain": "ftc.gov",
+      "total_citations": 229,
+      "authority_score": 44.311325743215704
+    },
+    {
+      "domain": "g2.com",
+      "total_citations": 225,
+      "authority_score": 39.60175965307314
+    },
+    {
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "total_citations": 167,
+      "authority_score": 31.748439518912814
+    },
+    {
+      "domain": "shopify.com",
+      "total_citations": 161,
+      "authority_score": 46.41271714655557
+    },
+    {
+      "domain": "bankrate.com",
+      "total_citations": 153,
+      "authority_score": 32.06472824922756
+    },
+    {
+      "domain": "imdb.com",
+      "total_citations": 147,
+      "authority_score": 34.911916079917084
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "total_citations": 144,
+      "authority_score": 52.109705543046175
+    },
+    {
+      "domain": "hbr.org",
+      "total_citations": 140,
+      "authority_score": 36.06479859894922
+    }
+  ]
+}
