@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 ## 🙏 Acknowledgments
 
-Special thanks to all contributors and the SEO/AI research community for feedback and insights.
+Lahina Strong! 
 
 ---
 
