@@ -35,6 +35,9 @@ Here's the punchline: **YouTube gets more AI search citations than Wikipedia, Ne
 
 Welcome to the new rules of search, where everything you know is wrong.
 
+![Description](https://hueston.co/remote/perplexity_top_domains_authority.png)
+
+
 ---
 
 ## Why This Research Matters More Than Any Algorithm Update
